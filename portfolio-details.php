@@ -173,6 +173,8 @@
           </div>
         </div>
       </section>
+
+      
       <!-- End Portfolio Details Section -->
     </main>
     <!-- End #main -->
